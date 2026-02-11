@@ -7,4 +7,4 @@ for movement the robot uses [Lego Spike medium motors](https://education.lego.co
 
 ### Line following  
 
-for line following we use Lego Spike prime and we are using the hub and the color sensors to stay on the line 
+for line following we use [Lego Spike prime](https://spike.legoeducation.com/prime/lobby/) and we are using the hub and the color sensors to stay on the line 
