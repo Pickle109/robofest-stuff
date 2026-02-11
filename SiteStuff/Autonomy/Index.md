@@ -1,10 +1,10 @@
 ## Autonomy
 
-to move autonomously the robot using bang-bang feed loop to move from one coordinate to the next. Within the cursor mode the robot moves towards 
+to move [automonously](https://dictionary.cambridge.org/us/dictionary/english/autonomously) the robot uses the line and color sensors .
 
-### Movement 
-for movement bang bang control was used to to move from one coordinate for the next 
+### Movement  
+for movement the robot uses Lego Spike medium motors
 
-### Pathfinding 
+### Line following  
 
-for pathfinding a BFS algorithm was used to find the shortest path to a destination, avoiding obstacles along the way 
+for line following we use Lego Spike prime and we are using the hub and the color sensors to stay on the line 
